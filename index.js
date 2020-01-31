@@ -33,6 +33,24 @@ checkAllBoxes4Element.addEventListener('click', function() {
     checkAllBoxesNow(dryCooler);
 });
 
+let hygiene = document.getElementsByName("hygiene");
+
+checkAllBoxes5Element.addEventListener('click', function() {
+    checkAllBoxesNow(hygiene);
+});
+
+let cookingMaterials = document.getElementsByName("cookingMaterials");
+
+checkAllBoxes6Element.addEventListener('click', function() {
+    checkAllBoxesNow(cookingMaterials);
+});
+
+let nutrition = document.getElementsByName("nutrition");
+
+checkAllBoxes7Element.addEventListener('click', function() {
+    checkAllBoxesNow(nutrition);
+});
+
 function checkAllBoxesNow(list){
     let allChecked = checkIfAllChecked(list);
     console.log(allChecked);
