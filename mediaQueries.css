@@ -109,7 +109,7 @@
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 850px) {
     .tent {
         width: 98%;
     }
@@ -140,8 +140,8 @@
     }
 
     input {
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
     }
 
     label {
