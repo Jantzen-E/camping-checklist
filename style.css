@@ -1,10 +1,3 @@
-body {
-    /* display: flex; */
-    /* align-items: center; */
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-}
-
 ul {
     list-style-type: none;
     margin-left: 0px;
@@ -15,18 +8,16 @@ ul {
     font-weight: bolder;
     font-size: 28px;
     color: black;
-    /* text-shadow: 0px 2px 0px red; */
-    /* background-image: url(https://images.unsplash.com/photo-1464547323744-4edd0cd0c746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60); */
-    background-size: cover;
-    background-repeat: no-repeat;
+    /* background-size: cover;
+    background-repeat: no-repeat; */
     /* background-attachment: fixed; */
     background-position: center;
     opacity: 100%;
     /* width: 1000px; */
-    background-color: blue;
+    background-color: rgb(69, 108, 216);
     width: 33%;
     margin-left: 0px;
-    margin-right: 5px;
+    margin-right: 1px;
 }
 
 .equipment {
@@ -66,7 +57,7 @@ ul {
     /* text-shadow: 0px 2px 0px red; */
     background-color: green;
     width: 33%;
-    margin-right: 5px;
+    margin-right: 1px;
     margin-top: 10px;
 }
 
@@ -91,13 +82,14 @@ ul {
     color: black;
     /* text-shadow: 0px 2px 0px red; */
     background-color: palevioletred;
-    width: 95%;
+    width: 99%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-top: 10px;
     margin-bottom: 0px;
-    margin-left: 40px;
+    margin-left: .5%;
+    margin-right: 0%;
 }
 
 .thingsToPurchase {
@@ -107,11 +99,11 @@ ul {
     /* text-shadow: 0px 2px 0px red; */
     background-color: darkslategrey;
     margin-bottom: 300px;
-    width: 95%;
+    width: 99%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-left: 40px;
+    margin-left: .5%;
     margin-top: 10px;
     margin-bottom: 30px;
 }
@@ -129,11 +121,11 @@ button:hover {
 }
 
 #addItemButton {
-    width: 300px;
-    height: 50px;
+    width: 20%;
+    height: 15%;
     color: black;
     background-color: grey;
-    margin-left: 20px;
+    margin-left: 5%;
     font-size: 1em;
 }
 

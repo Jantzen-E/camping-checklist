@@ -14,7 +14,7 @@ let x = document.getElementsByName("sleeping");
 checkAllBoxes1Element.addEventListener('click', function() {
     checkAllBoxesNow(x);
 });
-// *************************************************************
+
 let y = document.getElementsByName("gear");
 
 checkAllBoxes2Element.addEventListener('click', function() {
@@ -80,38 +80,6 @@ function checkIfAllChecked (checkList) {
     };
     return true;
 };
-
-
-
-// if (x.length = '16') {
-    //     x[i].checked = false;
-    // };
-// var max = 16;
-
-// var allInputs = document.querySelector("checkAllBoxes1");
-// for (var i = 0; i < max; i++) {
-//     if (allInputs[i].type === 'checkbox')
-//         allInputs[i].checked = true;
-// };
-
-
-// function check() {
-//     document.getElementById("checkAllBoxes1").checked = true;
-// };
-
-// checkAllBoxes1Element.addEventListener ('click', function(check) {
-// });
-
-
-
-
-// checkAllBoxes1Element.addEventListener ('click', function() {
-//     let checked = document.getElementById("checkAllBoxes1Element").checked;
-
-//     if (checked == true) {
-//         checkAllBoxes1Element.checked;
-//     };
-// });
 
 addItemButtonElement.addEventListener ('click', function() {
     const item = textInputBoxElement.value;

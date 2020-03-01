@@ -1,0 +1,168 @@
+@media screen and (max-width: 1030px) {
+    .tent {
+        width: 48%;
+        margin-left: 1%;
+    }
+
+    .equipment {
+        width: 48%;
+        margin-left: 1%;
+    }
+
+    .inspection {
+        width: 48%;
+        margin-left: 1%;
+        margin-top: 1%;
+    }
+
+    .dry {
+        width: 48%;
+        margin-left: 1%;
+    }
+
+    .individual {
+        width: 48%;
+        margin-left: 1%;
+    }
+
+    .cooking {
+        width: 48%;
+        margin-left: 1%;
+    }
+
+    .foodAndWater {
+        margin-left: 1%;
+        margin-right: 2%;
+        padding-right: 0%;
+    }
+
+    .thingsToPurchase {
+        margin-left: 1%;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    #addItemButton {
+        font-size: .7em;
+    }
+
+    #textInputBox {
+        width: 60%;
+        font-size: .7em;
+        
+    }
+
+    input {
+        width: 20px;
+        height: 20px;
+    }
+
+    #checkAllBoxes1 {
+        font-size: .7em;
+    }
+
+    #checkAllBoxes2 {
+        font-size: .7em;
+    }
+
+    #checkAllBoxes3 {
+        font-size: .7em;
+    }
+
+    #checkAllBoxes4 {
+        font-size: .7em;
+    }
+    
+    #checkAllBoxes5 {
+        font-size: .7em;
+    }
+
+    #checkAllBoxes6 {
+        font-size: .7em;
+    }
+
+    #checkAllBoxes7 {
+        font-size: .7em;
+    }
+
+    .purchase {
+        font-size: 1.5em;
+    }
+
+    h1.title {
+        font-size: 3em;
+    }
+}
+
+@media screen and (max-width: 867px) {
+    input {
+        width: 15px;
+        height: 15px;
+    }
+
+    label {
+        font-size: .7em;
+    }
+
+    .purchase {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .tent {
+        width: 98%;
+    }
+
+    .equipment {
+        width: 98%;
+    }
+
+    .inspection {
+        width: 98%;
+    }
+
+    .dry {
+        width: 98%;
+    }
+
+    .individual {
+        width: 98%;
+    }
+
+    .cooking {
+        width: 98%;
+    }
+
+    #textInputBox {
+        width: 60%;
+        font-size: .56em;
+    }
+
+    input {
+        width: 30px;
+        height: 30px;
+    }
+
+    label {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    #textInputBox {
+        width: 70%;
+        font-size: .56em;
+    }
+    
+    #addItemButton {
+        margin-left: 3%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #textInputBox {
+        width: 70%;
+        font-size: .5em;
+    }
+}
