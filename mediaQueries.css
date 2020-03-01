@@ -92,6 +92,30 @@
     h1.title {
         font-size: 3em;
     }
+
+    .tent {
+        width: 98%;
+    }
+
+    .equipment {
+        width: 98%;
+    }
+
+    .inspection {
+        width: 98%;
+    }
+
+    .dry {
+        width: 98%;
+    }
+
+    .individual {
+        width: 98%;
+    }
+
+    .cooking {
+        width: 98%;
+    }
 }
 
 @media screen and (max-width: 867px) {
@@ -109,7 +133,7 @@
     }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 650px) {
     .tent {
         width: 98%;
     }
