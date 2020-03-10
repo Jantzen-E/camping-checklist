@@ -4,6 +4,11 @@
         margin-left: 1%;
     }
 
+    input {
+        height: 65px;
+        width: 65px;
+    }
+
     .equipment {
         width: 48%;
         margin-left: 1%;
