@@ -1,4 +1,4 @@
-@media screen and (max-width: 1030px) {
+@media screen and (max-width: 1160px) {
     .tent {
         width: 48%;
         margin-left: 1%;
@@ -53,36 +53,36 @@
     }
 
     input {
-        width: 20px;
-        height: 20px;
+        width: 50px;
+        height: 50px;
     }
 
     #checkAllBoxes1 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     #checkAllBoxes2 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     #checkAllBoxes3 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     #checkAllBoxes4 {
-        font-size: .7em;
+        font-size: 1em;
     }
     
     #checkAllBoxes5 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     #checkAllBoxes6 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     #checkAllBoxes7 {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     .purchase {
@@ -116,16 +116,20 @@
     .cooking {
         width: 98%;
     }
+
+    label {
+        font-size: 1em;
+    }
 }
 
 @media screen and (max-width: 867px) {
     input {
-        width: 15px;
-        height: 15px;
+        width: 50px;
+        height: 50px;
     }
 
     label {
-        font-size: .7em;
+        font-size: 1em;
     }
 
     .purchase {
@@ -164,8 +168,8 @@
     }
 
     input {
-        width: 40px;
-        height: 40px;
+        width: 50px;
+        height: 50px;
     }
 
     label {
@@ -180,7 +184,8 @@
     }
     
     #addItemButton {
-        margin-left: 3%;
+        margin-left: 1%;
+        
     }
 }
 
