@@ -7,7 +7,7 @@ ul {
 .tent {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* background-size: cover;
     background-repeat: no-repeat; */
     /* background-attachment: fixed; */
@@ -32,7 +32,7 @@ ul {
 .equipment {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 33%;
@@ -43,7 +43,7 @@ ul {
 .inspection {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 33%;
@@ -52,7 +52,7 @@ ul {
 .dry {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 33%;
@@ -63,7 +63,7 @@ ul {
 .individual {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 33%;
@@ -74,7 +74,7 @@ ul {
 .cooking {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 33%;
@@ -90,7 +90,7 @@ ul {
 .foodAndWater {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     width: 99%;
@@ -106,7 +106,7 @@ ul {
 .thingsToPurchase {
     font-weight: bolder;
     font-size: 28px;
-    color: black;
+    color: white;
     /* text-shadow: 0px 2px 0px red; */
     background-color: rgb(77, 98, 35);
     margin-bottom: 300px;
