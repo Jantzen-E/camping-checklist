@@ -37,12 +37,14 @@
 
     .foodAndWater {
         margin-left: 1%;
-        margin-right: 2%;
-        padding-right: 0%;
+        /* margin-right: 2%;
+        padding-right: 0%; */
+        width: 97%;
     }
 
     .thingsToPurchase {
         margin-left: 1%;
+        width: 97%;
     }
 }
 
